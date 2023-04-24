@@ -11,4 +11,4 @@ Setting up for first time
 
 ###############################################
 
-django-admin startproject nrms .
+django-admin startproject notification_service .

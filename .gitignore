@@ -1,1 +1,7 @@
 nrms/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+db.sqlite3
