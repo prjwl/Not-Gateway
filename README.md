@@ -14,3 +14,9 @@ https://www.django-rest-framework.org/tutorial/quickstart/
 
 django-admin startproject notification_service .
 python manage.py startapp app
+
+
+
+################################################
+1. Install postgres - https://www.postgresql.org/download/
+
