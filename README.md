@@ -10,5 +10,7 @@ Setting up for first time
 5. pip3 freeze > requirements.txt
 
 ###############################################
+https://www.django-rest-framework.org/tutorial/quickstart/
 
 django-admin startproject notification_service .
+python manage.py startapp app
