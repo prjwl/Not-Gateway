@@ -1,4 +1,8 @@
 from django.db import models
 
-class EmailConfig(models):
-    pass
+class EmailConfig(models.Model):
+    name = models.CharField(null=False)
+    host = models.CharField(null=False)
+    port = models.CharField(null=False)
+    password = models.CharField(null=False)
+    sent_as = models.EmailField(null=False)
