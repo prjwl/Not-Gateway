@@ -6,3 +6,4 @@ class Email(models.Model):
     subject = models.CharField(null=False)
     body = models.CharField(null=False)
     attachements = models.CharField(null=False)
+    active = models.BooleanField(default=True)
