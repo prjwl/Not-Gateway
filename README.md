@@ -12,7 +12,7 @@ Setting up for first time
 ###############################################
 https://www.django-rest-framework.org/tutorial/quickstart/
 
-django-admin startproject notification_service .
+django-admin startproject not_gateway .
 python manage.py startapp app
 
 
