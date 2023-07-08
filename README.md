@@ -1,4 +1,4 @@
-# nrms
+# Not Gateway
 notification request management system
 
 #############################################
