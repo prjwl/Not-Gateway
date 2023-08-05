@@ -1,4 +1,4 @@
-# Notification Gateway
+# Notification Gateway (Under construction)
 #############################################
 Setting up for first time
 1. Setup virtual env : python -m venv venv
