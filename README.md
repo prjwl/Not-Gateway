@@ -1,14 +1,9 @@
-# Not Gateway
-notification request management system
-
+# Notification Gateway
 #############################################
-
 Setting up for first time
-1. Install python
-2. Setup virtual env : py -m venv not_gateway
-3. activate: source not_gateway\Scripts\activate.bat
-4. Install django: py -m pip install Django
-5. pip3 freeze > requirements.txt
+1. Setup virtual env : python -m venv venv
+2. activate: source venv\Scripts\activate.bat
+3. run pip : pip install -r requirements.txt
 
 ###############################################
 
