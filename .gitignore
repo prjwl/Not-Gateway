@@ -1,7 +1,8 @@
-not_gateway/
+venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 
 db.sqlite3
+.idea
